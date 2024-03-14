@@ -47,8 +47,7 @@ admin.site.register(Book_DB,Book_DBAdmin)
 ```
 ## OUTPUT
 
-
-![Screenshot (1)](https://github.com/Henriprasath/ORM/assets/144979077/c593790b-a26d-4538-bad5-1de7106ae895)
+![Screenshot (1)](https://github.com/Henriprasath/ORM/assets/144979077/c78cae4d-66f9-42f3-8014-e982941b685b)
 
 
 
